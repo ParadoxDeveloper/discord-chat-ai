@@ -1,0 +1,16 @@
+{
+  "name": "discord-chat-ai",
+  "version": "1.0.0",
+  "description": "chat ai for a discord server",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ParadoxDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ector": "^1.0.1"
+  }
+}
